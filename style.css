@@ -1,0 +1,13 @@
+/* class menggunakan titik */
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #b3f0ff;
+}
+/* id menggunakan tanda pagar */
+#projects {
+  background-color: #b3f0ff;
+}
+
+section {
+  padding-top: 5rem;
+}
